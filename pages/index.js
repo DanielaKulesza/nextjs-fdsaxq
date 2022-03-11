@@ -21,7 +21,6 @@ export default function Home() {
   return (
     <div class="row">
       <Search />
-      <p>Hello World</p>
       <Video />
       <Single />
       <div className="col-12"></div>
